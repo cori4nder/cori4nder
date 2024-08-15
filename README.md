@@ -14,15 +14,15 @@
 <a href="https://linkedin.com/in/lucas-dantas-92517b163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-dantas-92517b163" height="30" width="40" /></a>
 </p>
 
-## 💻 Languages
+### 💻 Languages
 
-👑 [![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/cpp/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 
 
-## 📚 Libraries
+### 📚 Libraries
 
 [![Pandas](https://img.shields.io/badge/pandas-%2300599C.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -32,10 +32,9 @@
 [![Pillow](https://img.shields.io/badge/pillow-%2300599C.svg?style=for-the-badge&logo=pillow&logoColor=white)](https://pillow.readthedocs.io/)
 [![OpenCV](https://img.shields.io/badge/opencv-%23FF9A00.svg?style=for-the-badge&logo=opencv&logoColor=white)]
 
-## 🛠️ Tools
+### 🛠️ Tools
 
 [![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](https://www.adobe.com/in/products/illustrator.html)
-(https://opencv.org/)
 [![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://www.photoshop.com/en)
 
