@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **cori4nder/cori4nder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A passionate computer vision developer from Brazil</h3>
+<h3 align="center">A passionate computer vision developer from Paraíba, Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cori4nder&label=Profile%20views&color=0e75b6&style=flat" alt="cori4nder" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cori4nder" alt="cori4nder" /></a> </p>
 
 - 🔭 I’m currently working on **car damages**
 
