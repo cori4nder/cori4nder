@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A passionate computer vision developer from Parahyba, Brazil</h3>
+<h1 align="center">Hi 🤖 I'm Lucas</h1>
+<h3 align="center">A passionate computer vision developer from Parahyba, Brazil 🌎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cori4nder&label=Profile%20views&color=0e75b6&style=flat" alt="cori4nder" /> </p>
 
@@ -30,7 +30,7 @@
 [![Seaborn](https://img.shields.io/badge/seaborn-%23313D3F.svg?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
 [![Pillow](https://img.shields.io/badge/pillow-%2300599C.svg?style=for-the-badge&logo=pillow&logoColor=white)](https://pillow.readthedocs.io/)
-[![OpenCV](https://img.shields.io/badge/opencv-%23FF9A00.svg?style=for-the-badge&logo=opencv&logoColor=white)]
+[![OpenCV](https://img.shields.io/badge/opencv-%23FF9A00.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 
 ### 🛠️ Tools
 
