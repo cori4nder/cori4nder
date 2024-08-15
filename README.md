@@ -1,8 +1,6 @@
 <h1 align="center">Hi 🤖 I'm Lucas</h1>
 <h3 align="center">A passionate computer vision developer from Parahyba, Brazil 🌎</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cori4nder&label=Profile%20views&color=0e75b6&style=flat" alt="cori4nder" /> </p>
-
 - 🔭 I’m currently working on **car damages**
 
 - 💬 Ask me about **data science, computer vision, machine/deep learning**
