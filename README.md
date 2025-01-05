@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🤖 I'm Lucas</h1>
 <h3 align="center">A passionate computer vision developer from Parahyba, Brazil 🌎</h3>
 
-- 🔭 I’m currently working on **GANs**
+- 🔭 I’m currently working on **GenAI**
 
 - 💬 Ask me about **data science, computer vision, machine/deep learning**
 
